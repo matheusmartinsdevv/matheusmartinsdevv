@@ -42,4 +42,4 @@
 
 ---
 
-🛠️ *Esse perfil está em construção constante enquanto evoluo nos estudos e na carreira 🚧
+Em constante evoluçao...
