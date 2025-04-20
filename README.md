@@ -7,7 +7,7 @@
 ---
  🧠 Tecnologias
 
-- Skills: C#, Python, JavaScript  
+- Skills: C#, Python, ASP.NET, JavaScript  
 - Frameworks: .NET, Flask  
 - Banco de Dados: SQL Server, MySQL  
 - Outros: Git, GitHub, Docker, Azure (básico), Testes Automatizados  
