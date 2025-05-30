@@ -1,7 +1,7 @@
 👋 Olá! Eu sou Matheus Martins
 
 🎓 Estudante de Engenharia de Software na PucPR!
-💻 Focado em desenvolvimento Backend  
+💻 Focado em desenvolvimento Backend, QA, e melhoria de processos! 
 !! Em busca de estágio ou oportunidade júnior na área de desenvolvimento  
 
 ---
@@ -38,7 +38,7 @@
 
  📫 Vamos nos conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/matheusmartinsbackend)
+[LinkedIn](https://www.linkedin.com/in/matheusmartinsbackend)
 
 ---
 
