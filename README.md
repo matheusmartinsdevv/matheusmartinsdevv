@@ -5,17 +5,17 @@
 !! Em busca de estágio ou oportunidade júnior na área de desenvolvimento  
 
 ---
- 🧠 Tecnologias
+  Tecnologias
 
-- Skills: C#, Python, ASP.NET, JavaScript  
+- Skills: PHP, Python, ASP.NET, JavaScript  
 - Frameworks: .NET, Flask  
 - Banco de Dados: SQL Server, MySQL  
-- Outros: Git, GitHub, Docker, Azure (básico), Testes Automatizados  
+- Outros: Git, GitHub, Docker, Azure, Testes Automatizados  
 - Frontend (noções): HTML, CSS, Angular (básico)
 
 ---
 
- 📚 Cursos e Certificações
+  Cursos e Certificações
 
 - Informática Avançada – Prepara Cursos (2023)  
 - Excel Avançado – Prepara Cursos (2024)  
@@ -29,7 +29,7 @@
 
 ---
 
- 💼 Em breve por aqui:
+  Em breve por aqui:
 
 - Projeto CRUD com Flask e banco de dados  
 - API REST em .NET com autenticação JWT  
