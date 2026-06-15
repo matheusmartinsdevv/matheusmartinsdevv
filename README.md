@@ -8,7 +8,6 @@
   Tecnologias
 
 - Skills: PHP, Python, ASP.NET, JavaScript  
-- Frameworks: .NET, Flask  
 - Banco de Dados: SQL Server, MySQL  
 - Outros: Git, GitHub, Docker, Azure, Testes Automatizados  
 - Frontend (noções): HTML, CSS, Angular (básico)
